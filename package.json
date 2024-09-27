@@ -13,9 +13,9 @@
     "nodemon": "^1.19.1"
   },
   "dependencies": {
-    "discord.js": "^11.5.1",
-    "request": "^2.88.0",
+    "discord.js": "^14.15.1",
+    "request": "^2.88.2",
     "snekfetch": "^3.4.5",
-    "youtube-search": "^1.1.4"
+    "youtube-search": "^1.1.5"
   }
 }
